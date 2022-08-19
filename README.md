@@ -17,7 +17,7 @@ changes we can refresh the scope
 - It is directly called by the proxy in order to redirect the rest call to the right service
 - When a service starts, he published is reference
 
-@ @GETWAY SERVICE
+# @GETWAY SERVICE
 
 - This one is used to orchestrate 
 - Once a client (mobile, web, ..) this service is going to ask to the register service the address
